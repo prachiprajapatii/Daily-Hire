@@ -7,8 +7,8 @@
 [![Next.js](https://img.shields.io/badge/Next.js-15.1.7-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![Leaflet](https://img.shields.io/badge/Leaflet-Maps-199900?style=for-the-badge&logo=leaflet&logoColor=white)](https://leafletjs.com/)
-[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fprachiprajapatii%2FDaily-Hire&root-directory=frontend)
+
 
 <p align="center">
   <b>DailyHire</b> is a modern, on-demand workforce and local service marketplace platform. Whether you need a quick repair, deep cleaning, electrical troubleshooting, or certified carpentry, DailyHire connects verified local professionals with clients through interactive map-based discovery, instant booking, and live tracking.
